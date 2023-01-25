@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+h1 {
+    font-size: 20px;
+    font-family: Arial;
+
+}
+nav {
+    text-align: center;
+    background-color: #CC8E51;
+}
+li {
+    padding: 15px;
+    display: inline-block;
+    margin: 5px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    color: #844100;
+    text-shadow: 2px 2px 2px #906845;
+}
+body {
+    background-color: beige;
+}
